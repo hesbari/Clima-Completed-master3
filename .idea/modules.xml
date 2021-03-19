@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Clima-Completed-master.iml" filepath="$PROJECT_DIR$/Clima-Completed-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clima-Completed-master3.iml" filepath="$PROJECT_DIR$/Clima-Completed-master3.iml" group="Clima-Completed-master3" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Clima-Completed-master3/app" />
     </modules>
   </component>
 </project>
